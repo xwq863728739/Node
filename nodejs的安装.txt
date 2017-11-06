@@ -1,0 +1,2 @@
+https://nodejs.org/en/download/下载对应版本的nodejs包
+替换淘宝镜像npm install -g cnpm --registry=https://registry.npm.taobao.org
